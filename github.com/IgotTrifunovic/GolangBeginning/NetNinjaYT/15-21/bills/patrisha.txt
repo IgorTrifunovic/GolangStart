@@ -1,0 +1,6 @@
+Bill brakedown: 
+coffiee:                       ... $1.2 
+soup:                          ... $0.99 
+main dish:                     ... $2.99 
+tip:                           ... $100.00 
+total:                         ... $105.18
